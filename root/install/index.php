@@ -62,7 +62,7 @@ include($phpbb_root_path . 'umil/umil_auto.' . $phpEx);
 /*
  * Functions based on version
  */
-function umil_eveonline_bbcode_0_1_0($action, $version)
+function umil_eveonline_bbcode_1_0_0($action, $version)
 {
     global $db, $table_prefix, $umil;
 
